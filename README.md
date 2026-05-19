@@ -63,6 +63,9 @@ Optional integration:
 
 - **[prompteng](https://github.com/ecological-codes/prompteng)** — parent skill; defines session init, 7-part framework, memory precedence rules.
 - **[captureng](https://github.com/ecological-codes/captureng)** — session-knowledge capture, CHECKPOINT mode — complements export-memories for session closure workflows.
+- **[packageng](https://github.com/ecological-codes/packageng)** — `.skill` file validation + packaging
+- **[safe-skill-creator](https://github.com/ecological-codes/safe-skill-creator)** — skill design + iteration
+- **[scribeng](https://github.com/ecological-codes/scribeng)** — agent scribe; Entire-compatible session checkpoint + sessionlog
 
 ## Companion Files
 
